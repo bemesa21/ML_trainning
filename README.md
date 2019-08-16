@@ -1,2 +1,5 @@
-# ML_trainning
-Ejercicios realizados con Python, scikit-learn.
+# ML exercises
+
+ML exercises with Python and scikit-learn
+
+
